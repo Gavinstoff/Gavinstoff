@@ -1,6 +1,3 @@
-<p align="center">
-  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
-</p>
 
 <h1 align="center">Hi, I'm <a href="https://dferd.netlify.app/">dferd</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
